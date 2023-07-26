@@ -6,7 +6,7 @@
     
   2. Comparisons: Discover how much a room type is on average and compare it to the other room           types. Make an observation as to how many days are available out of the year compared to the        pricing.
      
-  3. Predict: Make an educated prediction on the likely-hood of a certain room type being                avaialable within the year. (Likely or unlikely) Then make an estimate on the average price of      stay based on the room type.
+  3. Predict: Make an educated prediction on the likely-hood of a certain room type being                available within the year. (Likely or unlikely) Then make an estimate on the average price of       stay based on the room type.
 
   ## Programming Languages: 
 
